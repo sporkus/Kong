@@ -1,0 +1,2306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/spork/keyboard/Kong/pcb/mx/kongMX.kicad_sch</source>
+    <date>Tuesday, March 21, 2023 at 10:29:49 AM</date>
+    <tool>Eeschema (7.0.0-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>kongMX.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C500">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3d48c99-af0e-4028-9f9f-1e1d5bdf4bfe</tstamps>
+    </comp>
+    <comp ref="C501">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6a9ee4a-d6a2-4912-9c94-456089e50922</tstamps>
+    </comp>
+    <comp ref="C502">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01748bef-9f43-45e7-abc4-59f0642f1043</tstamps>
+    </comp>
+    <comp ref="C503">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>272f951b-1c0a-4fad-8cf5-e8c417488f16</tstamps>
+    </comp>
+    <comp ref="C504">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10d967c1-97fb-4fe2-98fe-7053c05b4a99</tstamps>
+    </comp>
+    <comp ref="C505">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f28cf71b-ef40-49c8-8cba-f092ab7ef4f4</tstamps>
+    </comp>
+    <comp ref="C506">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc37f1d6-32ef-41b7-b0e1-ed9ec79d5e63</tstamps>
+    </comp>
+    <comp ref="C507">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9cbc286-ac48-4e28-aa22-28e6e26b0229</tstamps>
+    </comp>
+    <comp ref="C508">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db9ab37d-9cdc-4b2a-ac65-13fd12cf3277</tstamps>
+    </comp>
+    <comp ref="C509">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5d1a105-805e-4129-b835-1b712a1067f6</tstamps>
+    </comp>
+    <comp ref="C510">
+      <value>27pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>788e6fc6-d3b0-46c7-8256-9162d14568c1</tstamps>
+    </comp>
+    <comp ref="C511">
+      <value>27pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4d27bb5-3f98-475b-96c8-5f0b8fac91a5</tstamps>
+    </comp>
+    <comp ref="C512">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c98a2c7-ec56-4f9b-95a8-c2a4f37285f0</tstamps>
+    </comp>
+    <comp ref="C513">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1aaabd91-6370-4e85-8fbe-14f7ce94a398</tstamps>
+    </comp>
+    <comp ref="D500">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a94693ac-a74b-4215-8468-b4f6e30704fa</tstamps>
+    </comp>
+    <comp ref="D501">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b15a9b5-57d2-424d-8d68-a30bb8c3acba</tstamps>
+    </comp>
+    <comp ref="D502">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d55f923-36a7-4c16-830a-43133ef85adc</tstamps>
+    </comp>
+    <comp ref="D503">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>caa1d4c9-b878-4410-910b-93605048767b</tstamps>
+    </comp>
+    <comp ref="D504">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0e4c214-2c59-4e5d-9ed5-fc1ea75ecb49</tstamps>
+    </comp>
+    <comp ref="D505">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af26a3ac-6b61-4954-83f8-98f9338b01f3</tstamps>
+    </comp>
+    <comp ref="D506">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f5ea9b7-8f06-4cf3-bf5b-a39fcc15afd4</tstamps>
+    </comp>
+    <comp ref="D507">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78b74702-1a13-416b-9642-a4d3ced3c77a</tstamps>
+    </comp>
+    <comp ref="D508">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5a58695-2607-4a88-bb3e-5919ad569e23</tstamps>
+    </comp>
+    <comp ref="D509">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8fb11da-b1ed-4b36-8d29-91f4ce60950d</tstamps>
+    </comp>
+    <comp ref="D510">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>840c3ef7-28c4-4d5e-afe5-a81041d07992</tstamps>
+    </comp>
+    <comp ref="D511">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77e0a670-c927-49d0-aadb-9bb3f3e5436c</tstamps>
+    </comp>
+    <comp ref="D512">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b752f5a-fa79-4697-8e66-1a97f73ec3c8</tstamps>
+    </comp>
+    <comp ref="D513">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5d314d6-dab3-4a9a-a7db-3a0cb32d5bd6</tstamps>
+    </comp>
+    <comp ref="D514">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38fe0943-6d97-4f58-9fa5-0559f945a8e9</tstamps>
+    </comp>
+    <comp ref="D515">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>052d0a11-e796-47ab-b0eb-5dee14bb1156</tstamps>
+    </comp>
+    <comp ref="D516">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac0b8064-8510-42cc-a92f-150356bbbcc1</tstamps>
+    </comp>
+    <comp ref="D517">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>baaa7b80-5f3c-4496-8a19-acb71a3df375</tstamps>
+    </comp>
+    <comp ref="D518">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9e4f6da-1540-4abf-b311-90e0b07fcb1d</tstamps>
+    </comp>
+    <comp ref="D519">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73bb26a7-69cf-4e17-8f05-e28a145f52fe</tstamps>
+    </comp>
+    <comp ref="D520">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>106ba9f1-cfa4-4a00-ba1b-e38e5e295c6f</tstamps>
+    </comp>
+    <comp ref="D521">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>102e8f8e-9971-475a-8f54-04a543d848d6</tstamps>
+    </comp>
+    <comp ref="D522">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f6d0362-6296-4bec-abaf-06046688dca4</tstamps>
+    </comp>
+    <comp ref="D523">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c33fda1e-b7ee-4889-a07f-d07d2455c901</tstamps>
+    </comp>
+    <comp ref="D524">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fd8e91b-c96a-4640-8718-4032f50364a3</tstamps>
+    </comp>
+    <comp ref="D525">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b490a166-27d1-4e5c-9bb4-e2e361e0e32e</tstamps>
+    </comp>
+    <comp ref="D526">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>560415c9-4557-445b-ae61-b3e0e5d45db7</tstamps>
+    </comp>
+    <comp ref="D527">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>870eb184-8bf7-457b-9e77-58c6b9f0bb6b</tstamps>
+    </comp>
+    <comp ref="D528">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a450be29-ca19-49c1-972c-809d85a48bb9</tstamps>
+    </comp>
+    <comp ref="D529">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9838dfcb-e706-4bc2-981a-160f20c0bb99</tstamps>
+    </comp>
+    <comp ref="D530">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef038c52-a68e-4874-b763-4876579074f6</tstamps>
+    </comp>
+    <comp ref="D531">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c48a2031-144a-400b-a02c-3ba8f8179146</tstamps>
+    </comp>
+    <comp ref="D532">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1de6f29f-48db-4d8c-9fde-0ccfff2497a3</tstamps>
+    </comp>
+    <comp ref="D533">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3150680-ea5b-4ba3-b810-d071090592ad</tstamps>
+    </comp>
+    <comp ref="D534">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86a856af-8ab7-480a-813e-f4de9a7ca6f5</tstamps>
+    </comp>
+    <comp ref="D535">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9bc61a8-16b4-4c1a-8431-86d9e7cc5477</tstamps>
+    </comp>
+    <comp ref="D536">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bdd140a-3b33-4440-8f0e-eed02a4b92b0</tstamps>
+    </comp>
+    <comp ref="D537">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40d35b8a-41d4-43b0-ae3b-d84be47cb3b0</tstamps>
+    </comp>
+    <comp ref="D538">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d39fc1e4-f30c-4c5d-a61c-ad5e896a9e36</tstamps>
+    </comp>
+    <comp ref="D539">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9cac67b-bc06-45a8-862d-ed11838ac4ed</tstamps>
+    </comp>
+    <comp ref="D540">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbac765f-27c7-4420-905d-351c71f2c7f0</tstamps>
+    </comp>
+    <comp ref="D541">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1017c2c0-2e90-4534-835f-a1647ecf688a</tstamps>
+    </comp>
+    <comp ref="D542">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b097b685-d7ad-4d2c-8652-7b81886249b4</tstamps>
+    </comp>
+    <comp ref="D543">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ef4965a-987e-4357-9bbb-7983fc0a5fe7</tstamps>
+    </comp>
+    <comp ref="D544">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>491161de-914c-4df1-a3c0-da9634327ff5</tstamps>
+    </comp>
+    <comp ref="D545">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab780b86-536b-46a9-badd-c734a07659a9</tstamps>
+    </comp>
+    <comp ref="D546">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0789087d-8800-4b4c-9df8-b2b4cf503170</tstamps>
+    </comp>
+    <comp ref="D547">
+      <value>D</value>
+      <footprint>weteor:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30113219-c331-486f-a453-dc6e38c57cc9</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f42e4516-afe9-4fd9-9232-73c5324d54f5</tstamps>
+    </comp>
+    <comp ref="J500">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>weteor:USB-C-31-M-14_C22</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd8aee2b-bf0d-4047-a6ba-16a373c65807</tstamps>
+    </comp>
+    <comp ref="J501">
+      <value>BL_CONN</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f95aac6-fa9e-445e-a03a-85f2455e4853</tstamps>
+    </comp>
+    <comp ref="R500">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58a01294-08a2-4224-814a-1273b803e7a0</tstamps>
+    </comp>
+    <comp ref="R501">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca87e7db-c6ba-426b-984f-a3ac6ad8b2cc</tstamps>
+    </comp>
+    <comp ref="R502">
+      <value>27R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00e3b7ec-724c-477f-b73a-06651b1e5f2c</tstamps>
+    </comp>
+    <comp ref="R503">
+      <value>27R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54eb4c2a-beb4-40b3-a0a4-eeae9facf9d6</tstamps>
+    </comp>
+    <comp ref="R504">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19806d2f-ea21-4a39-a26d-c631cc1f2546</tstamps>
+    </comp>
+    <comp ref="R505">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c0b2bfa-26a3-427d-8d44-163d61cf91d8</tstamps>
+    </comp>
+    <comp ref="R506">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b8e6f43-d63c-4da6-b1c1-07ad639200af</tstamps>
+    </comp>
+    <comp ref="R507">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45bee9fa-bc7a-4523-ab04-8e1dbd4302b7</tstamps>
+    </comp>
+    <comp ref="SW500">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6218853c-c9ff-49b6-89d1-59b803188ca4</tstamps>
+    </comp>
+    <comp ref="SW501">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>296750b0-62ac-4e7c-94f0-a083df3a6c9d</tstamps>
+    </comp>
+    <comp ref="SW502">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05f1a344-8030-44b9-beaa-320b3e6a92cc</tstamps>
+    </comp>
+    <comp ref="SW503">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3af3e412-f5c4-46b8-b5f6-9c4439a7bed4</tstamps>
+    </comp>
+    <comp ref="SW504">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e09b46ed-f00c-4b35-befc-3f5d04875583</tstamps>
+    </comp>
+    <comp ref="SW505">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f7730cd-dae4-4f4b-a182-ca28996745f2</tstamps>
+    </comp>
+    <comp ref="SW506">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f346575-020f-4b1c-aeea-19a996d47505</tstamps>
+    </comp>
+    <comp ref="SW507">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>664d5848-35d9-4e03-9118-9ec9980fc04a</tstamps>
+    </comp>
+    <comp ref="SW508">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8eb7aca0-b6fd-495a-969f-5a16ebfa05b3</tstamps>
+    </comp>
+    <comp ref="SW509">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a259517a-437d-4950-bde4-cc24a7a52e73</tstamps>
+    </comp>
+    <comp ref="SW510">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ea42088-bb36-4838-9740-f7553f5068b9</tstamps>
+    </comp>
+    <comp ref="SW511">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60e92735-c48a-4784-821a-2d44c3afb409</tstamps>
+    </comp>
+    <comp ref="SW512">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f263a081-455d-4c75-ace5-a06318915039</tstamps>
+    </comp>
+    <comp ref="SW513">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e825e6c-5c22-48e9-84e7-0429e89d1926</tstamps>
+    </comp>
+    <comp ref="SW514">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db60d821-db50-4287-9c50-158f2ae64e6b</tstamps>
+    </comp>
+    <comp ref="SW515">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87d82269-3110-4047-b7ef-124eea65c3b9</tstamps>
+    </comp>
+    <comp ref="SW516">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e939e49-0e3a-4521-ad86-46a94d61addd</tstamps>
+    </comp>
+    <comp ref="SW517">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3e790c4-db92-4898-9bc8-74a856f26c8d</tstamps>
+    </comp>
+    <comp ref="SW518">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42bb2a6e-a573-4dd6-924a-1e9386c6e51e</tstamps>
+    </comp>
+    <comp ref="SW519">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e5c1b37-165d-4ed5-9ad1-74543c9f00f1</tstamps>
+    </comp>
+    <comp ref="SW520">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4d7494e-24de-4c6a-bb05-1abafba0dc0f</tstamps>
+    </comp>
+    <comp ref="SW521">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb240ffd-f068-4103-8257-bbe1f34bcabb</tstamps>
+    </comp>
+    <comp ref="SW522">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69df5b3d-6e8f-4b0c-ba38-cf152638fcd3</tstamps>
+    </comp>
+    <comp ref="SW523">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d521652-48f7-4c4a-b314-ae0be26e754f</tstamps>
+    </comp>
+    <comp ref="SW524">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>864bb9f1-2f4c-436c-9187-1354b8fffb4d</tstamps>
+    </comp>
+    <comp ref="SW525">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>189b8c8d-bc35-48c7-8bfd-88eb95c81a1d</tstamps>
+    </comp>
+    <comp ref="SW526">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>109392d9-d30d-43ea-bbf5-928483492139</tstamps>
+    </comp>
+    <comp ref="SW527">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c7a6ba6-480d-4598-a950-47d236e8b315</tstamps>
+    </comp>
+    <comp ref="SW528">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>098adb61-2061-4a05-ada8-f78aaf4f5fc5</tstamps>
+    </comp>
+    <comp ref="SW529">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>973e2bc5-2fa4-47c7-b816-308f1b5d09ce</tstamps>
+    </comp>
+    <comp ref="SW530">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abd5f324-29b1-4ef3-938e-c731c036c6df</tstamps>
+    </comp>
+    <comp ref="SW531">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3db257c9-4500-485c-b543-1f30780cb3b5</tstamps>
+    </comp>
+    <comp ref="SW532">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef13ae16-b1ff-4038-bbed-a9cbc4224fbf</tstamps>
+    </comp>
+    <comp ref="SW533">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f1685ea-91c0-4daa-bc34-fb23517d939b</tstamps>
+    </comp>
+    <comp ref="SW534">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bfb25eb-d4b5-413c-aadd-2b916706f789</tstamps>
+    </comp>
+    <comp ref="SW535">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18ca6911-1dbd-4b83-af83-8b3a5f60a340</tstamps>
+    </comp>
+    <comp ref="SW536">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9da7801c-e137-49be-8c63-3610c4252c5f</tstamps>
+    </comp>
+    <comp ref="SW537">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dd7f42b-f642-4fea-b35e-9c0a03743b0d</tstamps>
+    </comp>
+    <comp ref="SW538">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad9c86cc-99cb-4141-b940-b767702efcbb</tstamps>
+    </comp>
+    <comp ref="SW539">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap_3u_stabs</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c522986-3b0c-4def-b0a7-0320b5bd9684</tstamps>
+    </comp>
+    <comp ref="SW540">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap_2u_stabs</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15a5db7f-f978-4987-80d6-fb80c8e36f8f</tstamps>
+    </comp>
+    <comp ref="SW541">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap_3u_stabs</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36387395-4f18-43cc-9109-c16053e89e9f</tstamps>
+    </comp>
+    <comp ref="SW542">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap_3u_stabs</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>226be7fe-6d58-4d58-a866-f0a7752382bc</tstamps>
+    </comp>
+    <comp ref="SW543">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap_2u_stabs</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66641377-f628-49e6-b785-023a5a6bf167</tstamps>
+    </comp>
+    <comp ref="SW544">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap_3u_stabs</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73d78b88-a495-465b-9b5b-b1443508ea3c</tstamps>
+    </comp>
+    <comp ref="SW545">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf44b190-ea6d-407f-abed-69db2c7ceee4</tstamps>
+    </comp>
+    <comp ref="SW546">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>751f1c8d-fe17-4d5c-a2de-9c23bd7131c8</tstamps>
+    </comp>
+    <comp ref="SW547">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5ab73c9-be51-45b7-b068-04bd884344c0</tstamps>
+    </comp>
+    <comp ref="SW548">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8abaa7c5-a43d-4383-92ba-24ebc83ecc15</tstamps>
+    </comp>
+    <comp ref="SW549">
+      <value>SW_Push</value>
+      <footprint>weteor:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a121fdb-4a6d-43f2-ac8e-df26220deb20</tstamps>
+    </comp>
+    <comp ref="SW550">
+      <value>SW_Push</value>
+      <footprint>weteor:Micro_Push_Button_3x6x2.5mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c85e439-672a-4b8a-b4a6-5db36448829a</tstamps>
+    </comp>
+    <comp ref="SW551">
+      <value>SW_Push</value>
+      <footprint>weteor:Micro_Push_Button_3x6x2.5mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>349ef20f-0af6-4d28-a253-9180104c8f7d</tstamps>
+    </comp>
+    <comp ref="U500">
+      <value>XC6206PxxxMR</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.torexsemi.com/file/xc6206/XC6206.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="XC6206PxxxMR" description="Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"/>
+      <property name="ki_keywords" value="Torex LDO Voltage Regulator Fixed Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd348c4d-4d6e-4175-a6e7-3ea6ba3cb22f</tstamps>
+    </comp>
+    <comp ref="U501">
+      <value>USBLC6-2SC6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+      <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
+      <property name="ki_keywords" value="usb ethernet video"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3eb3e035-1934-4f87-8af8-e5ca5b15875f</tstamps>
+    </comp>
+    <comp ref="U502">
+      <value>W25Q128JVS</value>
+      <footprint>Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</footprint>
+      <datasheet>http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</datasheet>
+      <libsource lib="Memory_Flash" part="W25Q128JVS" description="128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"/>
+      <property name="ki_keywords" value="flash memory SPI QPI DTR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e33ff0dc-1266-402a-b3ce-297afbb19f86</tstamps>
+    </comp>
+    <comp ref="U503">
+      <value>RP2040</value>
+      <footprint>RP2040_minimal:RP2040-QFN-56</footprint>
+      <libsource lib="MCU_RaspberryPi_RP2040" part="RP2040" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8244c7c-c570-4464-a944-73b1f3e64e01</tstamps>
+    </comp>
+    <comp ref="Y500">
+      <value>Crystal_GND24_Small</value>
+      <footprint>Crystal:Crystal_SMD_2520-4Pin_2.5x2.0mm</footprint>
+      <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="kongMX.kicad_sch"/>
+      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fdc40fe-fd58-4be4-92e5-29199ff23d74</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24_Small">
+      <description>Four pin crystal, GND on pins 2 and 4, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi_RP2040" part="RP2040">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040</field>
+        <field name="Footprint">RP2040_minimal:RP2040-QFN-56</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IOVDD" type="power_in"/>
+        <pin num="2" name="GPIO0" type="bidirectional"/>
+        <pin num="3" name="GPIO1" type="bidirectional"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GPIO6" type="bidirectional"/>
+        <pin num="9" name="GPIO7" type="bidirectional"/>
+        <pin num="10" name="IOVDD" type="power_in"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GPIO10" type="bidirectional"/>
+        <pin num="14" name="GPIO11" type="bidirectional"/>
+        <pin num="15" name="GPIO12" type="bidirectional"/>
+        <pin num="16" name="GPIO13" type="bidirectional"/>
+        <pin num="17" name="GPIO14" type="bidirectional"/>
+        <pin num="18" name="GPIO15" type="bidirectional"/>
+        <pin num="19" name="TESTEN" type="passive"/>
+        <pin num="20" name="XIN" type="input"/>
+        <pin num="21" name="XOUT" type="passive"/>
+        <pin num="22" name="IOVDD" type="power_in"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="SWCLK" type="output"/>
+        <pin num="25" name="SWD" type="bidirectional"/>
+        <pin num="26" name="RUN" type="input"/>
+        <pin num="27" name="GPIO16" type="bidirectional"/>
+        <pin num="28" name="GPIO17" type="bidirectional"/>
+        <pin num="29" name="GPIO18" type="bidirectional"/>
+        <pin num="30" name="GPIO19" type="bidirectional"/>
+        <pin num="31" name="GPIO20" type="bidirectional"/>
+        <pin num="32" name="GPIO21" type="bidirectional"/>
+        <pin num="33" name="IOVDD" type="power_in"/>
+        <pin num="34" name="GPIO22" type="bidirectional"/>
+        <pin num="35" name="GPIO23" type="bidirectional"/>
+        <pin num="36" name="GPIO24" type="bidirectional"/>
+        <pin num="37" name="GPIO25" type="bidirectional"/>
+        <pin num="38" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="39" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="40" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="41" name="GPIO29_ADC3" type="bidirectional"/>
+        <pin num="42" name="IOVDD" type="power_in"/>
+        <pin num="43" name="ADC_AVDD" type="power_in"/>
+        <pin num="44" name="VREG_IN" type="power_in"/>
+        <pin num="45" name="VREG_VOUT" type="power_out"/>
+        <pin num="46" name="USB_DM" type="bidirectional"/>
+        <pin num="47" name="USB_DP" type="bidirectional"/>
+        <pin num="48" name="USB_VDD" type="power_in"/>
+        <pin num="49" name="IOVDD" type="power_in"/>
+        <pin num="50" name="DVDD" type="power_in"/>
+        <pin num="51" name="QSPI_SD3" type="bidirectional"/>
+        <pin num="52" name="QSPI_SCLK" type="output"/>
+        <pin num="53" name="QSPI_SD0" type="bidirectional"/>
+        <pin num="54" name="QSPI_SD2" type="bidirectional"/>
+        <pin num="55" name="QSPI_SD1" type="bidirectional"/>
+        <pin num="56" name="QSPI_SS" type="bidirectional"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Memory_Flash" part="W25Q128JVS">
+      <description>128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8</description>
+      <docs>http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</docs>
+      <footprints>
+        <fp>SOIC*5.23x5.23mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">W25Q128JVS</field>
+        <field name="Footprint">Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</field>
+        <field name="Datasheet">http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CS}" type="input"/>
+        <pin num="2" name="DO(IO1)" type="bidirectional"/>
+        <pin num="3" name="IO2" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DI(IO0)" type="bidirectional"/>
+        <pin num="6" name="CLK" type="input"/>
+        <pin num="7" name="IO3" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="USBLC6-2SC6">
+      <description>Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</description>
+      <docs>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">USBLC6-2SC6</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="I/O2" type="passive"/>
+        <pin num="5" name="VBUS" type="passive"/>
+        <pin num="6" name="I/O1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="XC6206PxxxMR">
+      <description>Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23</description>
+      <docs>https://www.torexsemi.com/file/xc6206/XC6206.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XC6206PxxxMR</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.torexsemi.com/file/xc6206/XC6206.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_RaspberryPi_RP2040">
+      <uri>/Users/spork/keyboard/Kong/pcb/mx/MCU_RaspberryPi_RP2040.lib</uri>
+    </library>
+    <library logical="Memory_Flash">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Memory_Flash.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+1V1">
+      <node ref="C505" pin="1" pintype="passive"/>
+      <node ref="C506" pin="1" pintype="passive"/>
+      <node ref="C508" pin="1" pintype="passive"/>
+      <node ref="U503" pin="23" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="U503" pin="45" pinfunction="VREG_VOUT" pintype="power_out"/>
+      <node ref="U503" pin="50" pinfunction="DVDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+3.3V">
+      <node ref="C501" pin="1" pintype="passive"/>
+      <node ref="C502" pin="1" pintype="passive"/>
+      <node ref="C503" pin="1" pintype="passive"/>
+      <node ref="C504" pin="1" pintype="passive"/>
+      <node ref="C507" pin="1" pintype="passive"/>
+      <node ref="C512" pin="1" pintype="passive"/>
+      <node ref="C513" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J501" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R505" pin="1" pintype="passive"/>
+      <node ref="R507" pin="2" pintype="passive"/>
+      <node ref="U500" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U502" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U503" pin="1" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U503" pin="10" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U503" pin="22" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U503" pin="33" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U503" pin="42" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U503" pin="43" pinfunction="ADC_AVDD" pintype="power_in"/>
+      <node ref="U503" pin="44" pinfunction="VREG_IN" pintype="power_in"/>
+      <node ref="U503" pin="48" pinfunction="USB_VDD" pintype="power_in"/>
+      <node ref="U503" pin="49" pinfunction="IOVDD" pintype="power_in"/>
+    </net>
+    <net code="3" name="Col_1">
+      <node ref="SW500" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW512" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW524" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW536" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="Col_2">
+      <node ref="SW501" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW513" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW525" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW537" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="Col_3">
+      <node ref="SW502" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW514" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW526" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW538" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="13" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="Col_4">
+      <node ref="SW503" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW515" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW527" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW539" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="14" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="Col_5">
+      <node ref="SW504" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW516" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW528" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW540" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW541" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="15" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Col_6">
+      <node ref="SW510" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW522" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW534" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW548" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="16" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="Col_7">
+      <node ref="SW511" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW523" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW535" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW549" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="27" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="Col_8">
+      <node ref="SW505" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW517" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW529" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW542" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW543" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="28" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="Col_9">
+      <node ref="SW506" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW518" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW530" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW544" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="29" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="Col_10">
+      <node ref="SW507" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW519" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW531" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW545" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="30" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="Col_11">
+      <node ref="SW508" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW520" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW532" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW546" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="31" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="Col_12">
+      <node ref="SW509" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW521" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW533" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW547" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U503" pin="32" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="D+">
+      <node ref="R503" pin="2" pintype="passive"/>
+      <node ref="U501" pin="6" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="16" name="D-">
+      <node ref="R502" pin="2" pintype="passive"/>
+      <node ref="U501" pin="4" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="17" name="GND">
+      <node ref="C500" pin="2" pintype="passive"/>
+      <node ref="C501" pin="2" pintype="passive"/>
+      <node ref="C502" pin="2" pintype="passive"/>
+      <node ref="C503" pin="2" pintype="passive"/>
+      <node ref="C504" pin="2" pintype="passive"/>
+      <node ref="C505" pin="2" pintype="passive"/>
+      <node ref="C506" pin="2" pintype="passive"/>
+      <node ref="C507" pin="2" pintype="passive"/>
+      <node ref="C508" pin="2" pintype="passive"/>
+      <node ref="C509" pin="2" pintype="passive"/>
+      <node ref="C510" pin="1" pintype="passive"/>
+      <node ref="C511" pin="1" pintype="passive"/>
+      <node ref="C512" pin="2" pintype="passive"/>
+      <node ref="C513" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J500" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J500" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J500" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J500" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J500" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J501" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R500" pin="2" pintype="passive"/>
+      <node ref="R501" pin="2" pintype="passive"/>
+      <node ref="SW550" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW551" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U500" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U501" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U502" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U503" pin="19" pinfunction="TESTEN" pintype="passive"/>
+      <node ref="U503" pin="57" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y500" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y500" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C510-Pad2)">
+      <node ref="C510" pin="2" pintype="passive"/>
+      <node ref="R504" pin="1" pintype="passive"/>
+      <node ref="Y500" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D500-A)">
+      <node ref="D500" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW500" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D501-A)">
+      <node ref="D501" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW501" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D502-A)">
+      <node ref="D502" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW502" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D503-A)">
+      <node ref="D503" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW503" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D504-A)">
+      <node ref="D504" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW504" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D505-A)">
+      <node ref="D505" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW510" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D506-A)">
+      <node ref="D506" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW511" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D507-A)">
+      <node ref="D507" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW505" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D508-A)">
+      <node ref="D508" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW506" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D509-A)">
+      <node ref="D509" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW507" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D510-A)">
+      <node ref="D510" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW508" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D511-A)">
+      <node ref="D511" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW509" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D512-A)">
+      <node ref="D512" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW512" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D513-A)">
+      <node ref="D513" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW513" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D514-A)">
+      <node ref="D514" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW514" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D515-A)">
+      <node ref="D515" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW515" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D516-A)">
+      <node ref="D516" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW516" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D517-A)">
+      <node ref="D517" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW522" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D518-A)">
+      <node ref="D518" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW523" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D519-A)">
+      <node ref="D519" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW517" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D520-A)">
+      <node ref="D520" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW518" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D521-A)">
+      <node ref="D521" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW519" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D522-A)">
+      <node ref="D522" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW520" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D523-A)">
+      <node ref="D523" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW521" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D524-A)">
+      <node ref="D524" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW532" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D525-A)">
+      <node ref="D525" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW524" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D526-A)">
+      <node ref="D526" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW525" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D527-A)">
+      <node ref="D527" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW526" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D528-A)">
+      <node ref="D528" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW527" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D529-A)">
+      <node ref="D529" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW528" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D530-A)">
+      <node ref="D530" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW534" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D531-A)">
+      <node ref="D531" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW535" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D532-A)">
+      <node ref="D532" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW529" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D533-A)">
+      <node ref="D533" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW530" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D534-A)">
+      <node ref="D534" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW531" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D535-A)">
+      <node ref="D535" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW533" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D536-A)">
+      <node ref="D536" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW536" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D537-A)">
+      <node ref="D537" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW537" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D538-A)">
+      <node ref="D538" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW538" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D539-A)">
+      <node ref="D539" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW539" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D540-A)">
+      <node ref="D540" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW540" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW541" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D541-A)">
+      <node ref="D541" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW548" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D542-A)">
+      <node ref="D542" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW549" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D543-A)">
+      <node ref="D543" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW542" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW543" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D544-A)">
+      <node ref="D544" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW544" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D545-A)">
+      <node ref="D545" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW545" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D546-A)">
+      <node ref="D546" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW546" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D547-A)">
+      <node ref="D547" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW547" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(J500-CC1)">
+      <node ref="J500" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R501" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(J500-CC2)">
+      <node ref="J500" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R500" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(J500-D+-PadA6)">
+      <node ref="J500" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J500" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U501" pin="1" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(J500-D--PadA7)">
+      <node ref="J500" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J500" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U501" pin="3" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(J501-Pin_3)">
+      <node ref="J501" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U503" pin="25" pinfunction="SWD" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="Net-(J501-Pin_4)">
+      <node ref="J501" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U503" pin="24" pinfunction="SWCLK" pintype="output"/>
+    </net>
+    <net code="73" name="Net-(R506-Pad2)">
+      <node ref="R506" pin="2" pintype="passive"/>
+      <node ref="SW550" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(U503-RUN)">
+      <node ref="C509" pin="1" pintype="passive"/>
+      <node ref="R505" pin="2" pintype="passive"/>
+      <node ref="SW551" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U503" pin="26" pinfunction="RUN" pintype="input"/>
+    </net>
+    <net code="75" name="Net-(U503-USB_DM)">
+      <node ref="R502" pin="1" pintype="passive"/>
+      <node ref="U503" pin="46" pinfunction="USB_DM" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="Net-(U503-USB_DP)">
+      <node ref="R503" pin="1" pintype="passive"/>
+      <node ref="U503" pin="47" pinfunction="USB_DP" pintype="bidirectional"/>
+    </net>
+    <net code="77" name="Net-(U503-XIN)">
+      <node ref="C511" pin="2" pintype="passive"/>
+      <node ref="U503" pin="20" pinfunction="XIN" pintype="input"/>
+      <node ref="Y500" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(U503-XOUT)">
+      <node ref="R504" pin="2" pintype="passive"/>
+      <node ref="U503" pin="21" pinfunction="XOUT" pintype="passive"/>
+    </net>
+    <net code="79" name="QSPI_SCLK">
+      <node ref="U502" pin="6" pinfunction="CLK" pintype="input"/>
+      <node ref="U503" pin="52" pinfunction="QSPI_SCLK" pintype="output"/>
+    </net>
+    <net code="80" name="QSPI_SD0">
+      <node ref="U502" pin="5" pinfunction="DI(IO0)" pintype="bidirectional"/>
+      <node ref="U503" pin="53" pinfunction="QSPI_SD0" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="QSPI_SD1">
+      <node ref="U502" pin="2" pinfunction="DO(IO1)" pintype="bidirectional"/>
+      <node ref="U503" pin="55" pinfunction="QSPI_SD1" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="QSPI_SD2">
+      <node ref="U502" pin="3" pinfunction="IO2" pintype="bidirectional"/>
+      <node ref="U503" pin="54" pinfunction="QSPI_SD2" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="QSPI_SD3">
+      <node ref="U502" pin="7" pinfunction="IO3" pintype="bidirectional"/>
+      <node ref="U503" pin="51" pinfunction="QSPI_SD3" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="QSPI_SS">
+      <node ref="R506" pin="1" pintype="passive"/>
+      <node ref="R507" pin="1" pintype="passive"/>
+      <node ref="U502" pin="1" pinfunction="~{CS}" pintype="input"/>
+      <node ref="U503" pin="56" pinfunction="QSPI_SS" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="Row_1">
+      <node ref="D500" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D501" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D502" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D503" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D504" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D505" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D506" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D507" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D508" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D509" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D510" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D511" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U503" pin="34" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="Row_2">
+      <node ref="D512" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D513" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D514" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D515" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D516" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D517" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D518" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D519" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D520" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D521" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D522" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D523" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U503" pin="35" pinfunction="GPIO23" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="Row_3">
+      <node ref="D524" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D525" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D526" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D527" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D528" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D529" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D530" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D531" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D532" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D533" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D534" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D535" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U503" pin="36" pinfunction="GPIO24" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="Row_4">
+      <node ref="D536" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D537" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D538" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D539" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D540" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D541" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D542" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D543" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D544" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D545" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D546" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D547" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U503" pin="37" pinfunction="GPIO25" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="SCL">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U503" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="SDA">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U503" pin="8" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="VBUS">
+      <node ref="C500" pin="1" pintype="passive"/>
+      <node ref="J500" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J500" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J500" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J500" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="U500" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U501" pin="5" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="92" name="unconnected-(J500-SBU1-PadA8)">
+      <node ref="J500" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(J500-SBU2-PadB8)">
+      <node ref="J500" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U503-GPIO0-Pad2)">
+      <node ref="U503" pin="2" pinfunction="GPIO0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U503-GPIO1-Pad3)">
+      <node ref="U503" pin="3" pinfunction="GPIO1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U503-GPIO2-Pad4)">
+      <node ref="U503" pin="4" pinfunction="GPIO2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U503-GPIO3-Pad5)">
+      <node ref="U503" pin="5" pinfunction="GPIO3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U503-GPIO4-Pad6)">
+      <node ref="U503" pin="6" pinfunction="GPIO4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U503-GPIO7-Pad9)">
+      <node ref="U503" pin="9" pinfunction="GPIO7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(U503-GPIO14-Pad17)">
+      <node ref="U503" pin="17" pinfunction="GPIO14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(U503-GPIO15-Pad18)">
+      <node ref="U503" pin="18" pinfunction="GPIO15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(U503-GPIO26_ADC0-Pad38)">
+      <node ref="U503" pin="38" pinfunction="GPIO26_ADC0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(U503-GPIO27_ADC1-Pad39)">
+      <node ref="U503" pin="39" pinfunction="GPIO27_ADC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(U503-GPIO28_ADC2-Pad40)">
+      <node ref="U503" pin="40" pinfunction="GPIO28_ADC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(U503-GPIO29_ADC3-Pad41)">
+      <node ref="U503" pin="41" pinfunction="GPIO29_ADC3" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
